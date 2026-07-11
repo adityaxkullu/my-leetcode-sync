@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
