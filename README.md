@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
