@@ -3,27 +3,28 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> ans;
 
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
+        int i = 0;
+        int n = intervals.size();
 
-        int left = intervals[0][0];
-        int right = intervals[0][1];
-
-        for(int i = 0; i < intervals.size(); i++) {
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-            if(start <= right) {
-                right = max(end, right);
-            } else {
-                ans.push_back({left,right});
-
-                left = start;
-                right = end;
-            }
+        while(i < n && intervals[i][1] < newInterval[0]) {
+            ans.push_back(intervals[i]);
+            i++;
         }
-        ans.push_back({left, right});
+
+        while(i < n && intervals[i][0] <= newInterval[1]) {
+            newInterval[0] = min(intervals[i][0], newInterval[0]);
+            newInterval[1] = max(intervals[i][1], newInterval[1]);
+            i++;
+        }
+        ans.push_back(newInterval);
+
+        while(i < n) {
+            ans.push_back(intervals[i]);
+            i++;
+        }
 
         return ans;
+
+       
     }
 };
