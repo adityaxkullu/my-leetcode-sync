@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0206-reverse-linked-list) |
