@@ -21,36 +21,54 @@ public:
             return nullptr;
         }
 
-        unordered_map<Node*, Node*> m;
+        Node* temp = head;
 
-        Node* newHead = new Node(head->val);
-        Node* oldTemp = head->next;
-        Node* newTemp = newHead;
+        // step1 insertion of copy node
 
-        m[head] = newHead;
+        while(temp != nullptr) {
+            // create copy node
+            Node* copy = new Node(temp->val);
 
-        while(oldTemp != nullptr) {
-            Node* copyNode = new Node(oldTemp->val);
+            // passing of addresses to avoid misplacing
+            copy->next = temp->next;
+            temp->next = copy;
 
-            m[oldTemp] = copyNode;
-
-            newTemp->next = copyNode;
-            oldTemp = oldTemp->next;
-            newTemp = newTemp->next;
-
+            // updation of temp 
+            temp = copy->next;
         }
 
-        oldTemp = head;
-        newTemp = newHead;
+        // step2 connect random pointers
 
-        while(oldTemp != nullptr) {
-            newTemp->random = m[oldTemp->random];
-            oldTemp = oldTemp->next;
-            newTemp = newTemp->next;
+        temp = head;
+
+        while(temp != nullptr) {
+            if(temp->random != nullptr) {
+                temp->next->random = temp->random->next; // connection of random pointers
+            }
+            temp = temp->next->next; //updation of temp
+        }
+
+        // step3 separate both lists
+
+        temp = head;
+        Node* newHead = temp->next; // newHead store head of the copy list
+        Node* copy = newHead; //copy traverses the nodes of copy list
+
+        while(temp) {
+            temp->next = temp->next->next;
+
+            if(copy->next != nullptr) {
+                copy->next = copy->next->next;
+            }
+
+            // updates temp and copy pointer
+            temp = temp->next;
+            copy = copy->next;
         }
 
         return newHead;
 
+       
         
     }
 };
