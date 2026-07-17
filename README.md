@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
