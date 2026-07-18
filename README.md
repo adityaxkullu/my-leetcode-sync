@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0056-merge-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
