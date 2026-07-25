@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
@@ -124,10 +125,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
