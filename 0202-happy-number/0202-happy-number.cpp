@@ -12,15 +12,14 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        int slow = n, fast = n;
-        slow = digitSum(slow);
-        fast = digitSum(digitSum(fast));
+       unordered_set<int> seen;
 
-        while(slow != fast) {
-            slow = digitSum(slow);
-            fast = digitSum(digitSum(fast));
-        }
+       while(n != 1 && seen.find(n) == seen.end()) {
+        seen.insert(n);
+        n = digitSum(n);
+       }
+
         
-        return slow == 1;    
+        return n == 1;    
     }
 };
