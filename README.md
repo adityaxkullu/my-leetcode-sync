@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
