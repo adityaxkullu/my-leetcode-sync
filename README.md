@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
