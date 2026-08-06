@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
