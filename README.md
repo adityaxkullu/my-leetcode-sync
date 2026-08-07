@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0198-house-robber) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
