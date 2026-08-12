@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
