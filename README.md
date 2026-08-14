@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
