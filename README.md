@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0525-contiguous-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
