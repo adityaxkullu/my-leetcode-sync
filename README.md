@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
+| [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
