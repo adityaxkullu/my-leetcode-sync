@@ -3,24 +3,19 @@ public:
     int removeDuplicates(vector<int>& a) {
         int n = a.size();
 
-        if(n <= 2) {
-            return n;
-        }
-
-        int i = 0, j = i + 2, res = 2;
+        if(n <= 2) return n;
+        
+        int i = 0, j = i + 2;
 
         while(j < n) {
-            if(a[j] == a[i]) {
-                j++;
-                continue;
+            if(a[j] != a[i]) {
+                a[i + 2] = a[j];
+                i++;
             }
-
-            a[i + 2] = a[j];
-            i++;
             j++;
-            res++;
         }
 
-        return res;    
+        return i + 2;
+        
     }
 };
