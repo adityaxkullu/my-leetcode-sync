@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0209-minimum-size-subarray-sum) |
