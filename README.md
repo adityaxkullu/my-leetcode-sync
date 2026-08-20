@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
