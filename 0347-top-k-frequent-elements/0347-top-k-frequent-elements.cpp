@@ -10,19 +10,9 @@ public:
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
         for(auto i : freq) {
-            pair<int, int> curr = {i.second, i.first};
+           pq.push({i.second, i.first});
 
-            if(pq.size() < k){
-                pq.push(curr);
-                continue;
-            }
-
-            if(curr.first < pq.top().first) {
-                continue;
-            }else {
-                pq.pop();
-                pq.push(curr);
-            }    
+           if(pq.size() > k) pq.pop();
         }
 
         vector<int> res;
