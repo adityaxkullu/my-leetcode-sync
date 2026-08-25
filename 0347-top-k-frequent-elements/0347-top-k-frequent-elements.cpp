@@ -1,38 +1,38 @@
 class Solution {
 public:
-    vector<int> topKFrequent(vector<int>& a, int k) {
-       int n = a.size();
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int, int> freq;
 
-       // count frequency
-       unordered_map<int, int> freq;
-
-       for(int x : a) {
-        freq[x]++;
-       }
-       
-       // create bucket;
-       vector<vector<int>> bucket(n + 1);
-
-       for(auto i : freq) {
-        int element = i.first;
-        int frequency = i.second;
-
-        bucket[frequency].push_back(element);
-       }
-
-       // traverse the bucket array
-       vector<int> res;
-
-       for(int frequency = n; frequency >= 1; frequency--) {
-        for(int element : bucket[frequency]) {
-            res.push_back(element);
-
-            if(res.size() == k) return res;
+        for(int x : nums) {
+            freq[x]++;
         }
-       }
 
-       return res;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
+        for(auto i : freq) {
+            pair<int, int> curr = {i.second, i.first};
+
+            if(pq.size() < k){
+                pq.push(curr);
+                continue;
+            }
+
+            if(curr.first < pq.top().first) {
+                continue;
+            }else {
+                pq.pop();
+                pq.push(curr);
+            }    
+        }
+
+        vector<int> res;
+
+        while(!pq.empty()) {
+            res.push_back(pq.top().second);
+            pq.pop();
+        }
+
+        return res;
         
     }
 };
