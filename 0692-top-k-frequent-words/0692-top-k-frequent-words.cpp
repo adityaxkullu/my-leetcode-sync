@@ -1,32 +1,37 @@
 class Solution {
 public:
-    struct cmp{
-        bool operator()(pair<int, string> &a, pair<int, string> &b) {
-            if(a.first != b.first) return a.first < b.first;
-            return a.second > b.second;
-        } 
-    };
-
     vector<string> topKFrequent(vector<string>& words, int k) {
-        unordered_map<string, int> freq;
-
-        for(string x : words) {
-            freq[x]++;
+        int n = words.size();
+        unordered_map<string, int> m;
+        
+        // count frequency
+        for(string str : words) {
+            m[str]++;
         }
 
-        priority_queue<pair<int, string>, vector<pair<int, string>>, cmp> pq;
+        // create bucket
+        vector<vector<string>> bucket(n + 1);
 
-        for(auto i : freq) {
-            pq.push({i.second, i.first});
+        for(auto x : m) {
+            bucket[x.second].push_back(x.first);
+        }
+        
+        // sort every bucket lexicographically
+        for(int f = 1; f <= n; f++) {
+            sort(bucket[f].begin(), bucket[f].end());
         }
 
         vector<string> res;
-        while(k--) {
-            res.push_back(pq.top().second);
-            pq.pop();
+
+        // traverse from highest frequency to smallest
+        for(int i = n; i > 0; i--) {
+            for(string x : bucket[i]) {
+                res.push_back(x);
+
+                if(res.size() == k) return res;
+            }
         }
 
-        return res;
-        
+        return res;    
     }
 };
