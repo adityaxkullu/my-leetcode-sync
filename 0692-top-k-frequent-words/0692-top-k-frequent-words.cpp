@@ -2,8 +2,8 @@ class Solution {
 public:
     struct cmp{
         bool operator()(pair<int, string> &a, pair<int, string> &b) {
-            if(a.first != b.first) return a.first > b.first;
-            return a.second < b.second;
+            if(a.first != b.first) return a.first < b.first;
+            return a.second > b.second;
         } 
     };
 
@@ -18,8 +18,6 @@ public:
 
         for(auto i : freq) {
             pq.push({i.second, i.first});
-
-            if(pq.size() > k) pq.pop();
         }
 
         vector<string> res;
@@ -27,8 +25,6 @@ public:
             res.push_back(pq.top().second);
             pq.pop();
         }
-
-        reverse(res.begin(), res.end());
 
         return res;
         
