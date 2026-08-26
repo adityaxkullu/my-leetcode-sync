@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0986-interval-list-intersections) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1552-magnetic-force-between-two-balls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -340,11 +344,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
@@ -353,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
