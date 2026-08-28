@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
