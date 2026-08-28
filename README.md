@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0724-find-pivot-index) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1189-maximum-number-of-balloons) |
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
