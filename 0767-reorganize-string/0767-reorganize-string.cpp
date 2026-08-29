@@ -1,43 +1,42 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        unordered_map<char, int> freq;
+        int n = s.size();
+        vector<int> freq(26, 0);
 
         for(char c : s) {
-            freq[c]++;
+            freq[c - 'a']++;
         }
 
-        priority_queue<pair<int, char>> pq;
+        int maxFreq = 0,maxChar;
 
-        for(auto x : freq) {
-            pq.push({x.second, x.first});
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] > maxFreq) {
+                maxFreq = freq[i];
+                maxChar = i;
+            }
         }
 
-        string res;
-        while(pq.size() >= 2) {
-            auto first = pq.top();
-            pq.pop();
+        if(maxFreq > (n + 1) / 2) return "";
 
-            auto second = pq.top();
-            pq.pop();
+        string res(n, ' ');
+        int idx = 0;
 
-            res += first.second;
-            res += second.second;
+        while(freq[maxChar] > 0) {
+            res[idx] = char('a' + maxChar);
 
-            first.first--;
-            second.first--;
-
-            if(first.first > 0) pq.push(first);
-            if(second.first > 0) pq.push(second);
-
+            idx += 2;
+            freq[maxChar]--;
         }
 
-        if(!pq.empty()) {
-            auto last = pq.top();
+        for(int i = 0; i < 26; i++) {
+            while(freq[i] > 0) {
+                if(idx >= n) idx = 1;
 
-            if(last.first > 1) return "";
-
-            res += last.second;
+                res[idx] = char('a' + i);
+                idx += 2;
+                freq[i]--;
+            }
         }
 
         return res;
