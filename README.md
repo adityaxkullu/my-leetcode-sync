@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
