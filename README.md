@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
@@ -431,9 +433,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
