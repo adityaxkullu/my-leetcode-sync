@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0503-next-greater-element-ii) |
