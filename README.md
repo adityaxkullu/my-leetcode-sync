@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
+| [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0724-find-pivot-index) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
+| [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
