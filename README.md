@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1470-shuffle-the-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
