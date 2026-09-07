@@ -11,66 +11,17 @@
  */
 class Solution {
 public:
-    stack<TreeNode*> asc, dsc;
-
-    TreeNode* getSmall() {
-        if(asc.empty()) return nullptr;
-
-        TreeNode* small = asc.top();
-        asc.pop();
-
-        TreeNode* rightChild = small->right;
-
-        while(rightChild) {
-            asc.push(rightChild);
-            rightChild = rightChild->left;
-        }
-
-        return small;
-    }
-
-    TreeNode* getBig() {
-        if(dsc.empty()) return nullptr;
-
-        TreeNode* big = dsc.top();
-        dsc.pop();
-
-        TreeNode* leftChild = big->left;
-
-        while(leftChild) {
-            dsc.push(leftChild);
-            leftChild = leftChild->right;
-        }
-
-        return big;
-    }
+    unordered_set<int> set;
 
     bool findTarget(TreeNode* root, int k) {
         if(root == nullptr) return false;
 
-        TreeNode* t = root;
-        while(t) {
-            asc.push(t);
-            t = t->left;
-        }
+        int required = k - root->val;
 
-        t = root;
-        while(t) {
-            dsc.push(t);
-            t = t->right;
-        }
+        if(set.find(required) != set.end()) return true;
 
-        TreeNode* i = getSmall();
-        TreeNode* j = getBig();
+        set.insert(root->val);
 
-        while((i && j) && i != j && i->val <= j->val) {
-            int sum = i->val + j->val;
-
-            if(sum == k) return true;
-            else if(sum > k) j = getBig();
-            else i = getSmall();
-        }
-
-        return false;     
+        return findTarget(root->left, k) || findTarget(root->right, k);
     }
 };
