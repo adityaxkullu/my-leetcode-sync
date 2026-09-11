@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0113-path-sum-ii) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0113-path-sum-ii) |
