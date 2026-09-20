@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1095-find-in-mountain-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
