@@ -1,15 +1,26 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>> &adj, vector<bool> &visited, int &count) {
-        visited[node] = true;
-        count++;
+    void bfs(int start, vector<vector<int>> &adj, vector<bool> &visited, int &count) {
+        queue<int> q;
 
-        for(int neighbour : adj[node]) {
-            if(!visited[neighbour]) {
-                dfs(neighbour, adj, visited, count);
+        q.push(start);
+        visited[start] = true;
+
+        while(!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            count++;
+
+            for(int neighbour : adj[node]) {
+                if(!visited[neighbour]) {
+                    visited[neighbour] = true;
+                    q.push(neighbour);
+                }
             }
         }
     }
+    
     int maximumDetonation(vector<vector<int>>& bombs) {
         int n = bombs.size();
 
@@ -42,7 +53,7 @@ public:
             vector<bool> visited(n, false);
             int count = 0;
 
-            dfs(i, adj, visited, count);
+            bfs(i, adj, visited, count);
             ans = max(count, ans);
         }
 
