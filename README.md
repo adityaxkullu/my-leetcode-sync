@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
 ## Doubly-Linked List
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
@@ -562,17 +564,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
 ## Graph Coloring
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
