@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
@@ -586,4 +590,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
