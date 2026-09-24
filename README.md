@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -577,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
@@ -605,5 +612,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
