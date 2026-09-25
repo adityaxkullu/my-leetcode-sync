@@ -9,56 +9,42 @@ public:
         return true;
     }
 
-    bool bfs(vector<vector<int>> &grid, int mid) {
+    int swimInWater(vector<vector<int>>& grid) {
         int n = grid.size();
 
-        vector<vector<int>> visited(n, vector<int>(n, false));
-        queue<pair<int, int>> q;
+        vector<vector<int>> res(n, vector<int>(n, INT_MAX));
 
-        q.push({0, 0});
-        visited[0][0] = true;
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
 
-        while(!q.empty()) {
-            pair<int, int> p = q.front();
-            q.pop();
+        pq.push({grid[0][0], {0, 0}});
+        res[0][0] = grid[0][0];
 
-            int row = p.first;
-            int col = p.second;
+        while(!pq.empty()) {
+            pair<int, pair<int, int>> p = pq.top();
+            pq.pop();
 
-            if(row == n - 1 && col == n - 1) return true;
+            int time = p.first;
+            int row = p.second.first;
+            int col = p.second.second;
+
+            if(time > res[row][col]) continue;
+            if(row == n - 1 && col == n - 1) return time;
 
             for(int k = 0; k < 4; k++) {
                 int r = row + x[k];
                 int c = col + y[k];
 
-                if(valid(r, c, n) && visited[r][c] == false && mid >= grid[r][c]) {
-                    q.push({r, c});
-                    visited[r][c] = true;
+                if(valid(r, c, n)) {
+                    int newTime = max(time, grid[r][c]);
+
+                    if(newTime < res[r][c]) {
+                        res[r][c] = newTime;
+                        pq.push({newTime, {r, c}});
+                    }
                 }
-
-            }
+            }    
         }
 
-        return false;
-    }
-
-    int swimInWater(vector<vector<int>>& grid) {
-        int n = grid.size();
-
-        int low = grid[0][0];
-        int high = n * n - 1;
-        int ans = 0;
-
-        while(low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if(bfs(grid, mid)) {
-                ans = mid;
-                high = mid - 1;
-            }else low = mid + 1;
-        }
-
-        return ans;
-        
+        return -1;    
     }
 };
