@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0142-linked-list-cycle-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0226-invert-binary-tree) |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
