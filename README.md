@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0198-house-robber) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1631-path-with-minimum-effort) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0994-rotting-oranges) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
 ## Graph Coloring
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
