@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0973-k-closest-points-to-origin) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
