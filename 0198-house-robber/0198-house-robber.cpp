@@ -1,21 +1,27 @@
 class Solution {
 public:
-    int rob(vector<int>& a) {
-       int n = a.size();
+    int solve(vector<int> &nums, int i, int freeWill, vector<vector<int>> &dp) {
+        int n = nums.size();
+        if(i == n) return 0;
 
-       if(n == 1) return a[0];
-       
-       int prev2 = a[0];
-       int prev1 = max(a[0], a[1]);
+        if(dp[i][freeWill] != -1) {
+            return dp[i][freeWill];
+        }
 
-       for(int i = 2; i < n; i++) {
-        int curr = max(prev1, prev2 + a[i]);
+        if(freeWill == 0) {
+            return dp[i][freeWill] = solve(nums, i + 1, 1, dp);
+        }
 
-        prev2 = prev1;
-        prev1 = curr;
+        int c1 = nums[i] + solve(nums, i + 1, 0, dp);
+        int c2 = solve(nums, i + 1, 1, dp);
 
-       }
+        return dp[i][freeWill] = max(c1, c2);
+    }
 
-       return prev1;
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(2, -1));
+
+        return solve(nums, 0, 1, dp);   
     }
 };
