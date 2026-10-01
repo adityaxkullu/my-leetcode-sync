@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
