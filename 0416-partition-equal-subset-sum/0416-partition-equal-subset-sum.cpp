@@ -1,5 +1,20 @@
 class Solution {
 public:
+    bool fun(vector<int> &arr, int sum, int i, vector<vector<int>> &dp) {
+        int n = arr.size();
+        
+        if(sum == 0) return true;
+        if(i == n) return false;
+        
+        if(dp[i][sum] != -1) return dp[i][sum];
+        
+        if(arr[i] > sum) {
+            return dp[i][sum] = fun(arr, sum, i + 1, dp);
+        }
+        
+        return dp[i][sum] = fun(arr, sum - arr[i], i + 1, dp) || fun(arr, sum, i + 1, dp);
+    }
+
     bool canPartition(vector<int>& arr) {
         int n = arr.size();
         int totalSum = 0;
@@ -12,25 +27,7 @@ public:
         int sum = totalSum / 2;
 
         vector<vector<int>> dp(n + 1, vector<int>(sum + 1, -1));
-        
-        for(int j = 0; j <= sum; j++) {
-            dp[n][j] = 0;
-        }
-        
-        dp[n][0] = 1;
-        
-        for(int i = n - 1; i >= 0; i--) {
-            for(int j = 0; j <= sum; j++) {
-                if(arr[i] > j) {
-                    dp[i][j] = dp[i + 1][j];
-                }else {
-                    dp[i][j] = (dp[i + 1][j - arr[i]] || dp[i + 1][j]);
-                }
-            }
-        }
-        
-        
-        return dp[0][sum];
-        
+
+        return fun(arr, sum, 0, dp);
     }
 };
