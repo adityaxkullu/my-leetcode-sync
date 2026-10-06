@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int fun(vector<int> &arr, int sum, int i, vector<vector<int>> &dp, int offset) {
+    int fun(vector<int> &arr, int sum, int i, int offset) {
         int n = arr.size();
 
         if(sum < -offset || sum > offset) return 0;
@@ -11,12 +11,10 @@ public:
             return 0;
         }
         
-        if(dp[i][sum + offset] != -1) return dp[i][sum + offset];
-        
-        int c1 = fun(arr, sum - arr[i], i + 1, dp, offset);
-        int c2 = fun(arr, sum + arr[i], i + 1, dp, offset);
+        int c1 = fun(arr, sum - arr[i], i + 1, offset);
+        int c2 = fun(arr, sum + arr[i], i + 1, offset);
 
-        return dp[i][sum + offset] = c1 + c2;
+        return c1 + c2;
        
     }
 
@@ -29,9 +27,7 @@ public:
         }
 
         if(abs(target) > total) return 0;
-
-        vector<vector<int>> dp(n + 1, vector<int>(2 * total + 1, -1));
         
-        return fun(nums, target, 0, dp, total);
+        return fun(nums, target, 0, total);
     }
 };
