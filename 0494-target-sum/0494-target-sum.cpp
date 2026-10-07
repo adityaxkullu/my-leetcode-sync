@@ -1,5 +1,25 @@
 class Solution {
 public:
+    int fun(vector<int> &nums, int sum, int i) {
+        int n = nums.size();
+
+        if(i == n) {
+            if(sum == 0) return 1;
+        
+
+            return 0;
+        }
+
+        if(sum < nums[i]) {
+            return fun(nums, sum, i + 1);
+        }
+
+        int c1 = fun(nums, sum - nums[i], i + 1);
+        int c2 = fun(nums, sum, i + 1);
+
+        return c1 + c2;
+    }
+
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
         int total = 0;
@@ -9,36 +29,10 @@ public:
         }
 
         if(abs(target) > total) return 0;
-        
-        vector<vector<int>> dp(n + 1, vector<int>(2 * total + 1, 0));
+        if((total + target) % 2 != 0) return 0;
 
-        int offset = total;
+        int required = (total + target) / 2;
 
-        // At i == n;
-        // sum == 0 has exactly 1 way
-        dp[n][offset] = 1;
-
-        for(int i = n - 1; i >= 0; i--) {
-            for(int sum = -total; sum <= total; sum++) {
-                int index = sum + offset;
-
-                int c1 = 0;
-                int c2 = 0;
-      
-                // Put +nums[i]
-                if(sum - nums[i] >= -total && sum - nums[i] <= total) {
-                    c1 = dp[i + 1][sum - nums[i] + offset];
-                }
- 
-                // Put -nums[i]
-                if(sum + nums[i] >= -total && sum + nums[i] <= total) {
-                    c2 = dp[i + 1][sum + nums[i] + offset];
-                }
-
-                dp[i][index] = c1 + c2;
-            }
-        }
-
-        return dp[0][target + offset];
+        return fun(nums, required, 0);    
     }
 };
