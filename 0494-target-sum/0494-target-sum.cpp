@@ -1,28 +1,5 @@
 class Solution {
 public:
-    int fun(vector<int> &nums, int sum, int i, vector<vector<int>> &dp) {
-        int n = nums.size();
-
-        if(i == n) {
-            if(sum == 0) return 1;
-            
-            return 0;
-        }
- 
-        if(dp[i][sum] != -1) {
-            return dp[i][sum];
-        }
-
-        if(sum < nums[i]) {
-            return dp[i][sum] = fun(nums, sum, i + 1, dp);
-        }
-
-        int c1 = fun(nums, sum - nums[i], i + 1, dp);
-        int c2 = fun(nums, sum, i + 1, dp);
-
-        return dp[i][sum] = c1 + c2;
-    }
-
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
         int total = 0;
@@ -38,6 +15,22 @@ public:
 
         vector<vector<int>> dp(n + 1, vector<int>(required + 1, -1));
 
-        return fun(nums, required, 0, dp);    
+        for(int j = 0; j <= required; j++) {
+            dp[n][j] = 0;
+        }  
+
+        dp[n][0] = 1;
+
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = 0; j <= required; j++) {
+                if(nums[i] > j) {
+                    dp[i][j] = dp[i + 1][j];
+                } else {
+                    dp[i][j] = dp[i + 1][j - nums[i]] + dp[i + 1][j];
+                }
+            }
+        } 
+
+        return dp[0][required];
     }
 };
