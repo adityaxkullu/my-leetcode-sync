@@ -1,28 +1,19 @@
 class Solution {
 public:
-    int fun(vector<int> &prices, int n, int i, int k, vector<vector<int>> &dp) {
-        if(i == n) return 0;
-        if(k == 0) return 0;
-
-        if(dp[i][k] != -1) return dp[i][k];
-
-        if(k % 2 == 0) {
-            int c1 = fun(prices, n, i + 1, k - 1, dp) - prices[i];
-            int c2 = fun(prices, n, i + 1, k, dp);
-
-            return  dp[i][k] = max(c1, c2);
-        } else {
-            int c1 = fun(prices, n, i + 1, k - 1, dp) + prices[i];
-            int c2 = fun(prices, n, i + 1, k, dp);
-
-            return dp[i][k] = max(c1, c2);
-        }
-    }
-
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n + 1, vector<int>(2 * k + 1, -1));
+        vector<vector<int>> dp(n + 1, vector<int>(2 * k + 1, 0));
 
-        return fun(prices, n, 0, 2 * k, dp);    
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = 1; j <= 2 * k; j++) {
+                if(j % 2 == 0) {
+                    dp[i][j] = max(dp[i + 1][j - 1] - prices[i], dp[i + 1][j]);
+                } else {
+                    dp[i][j] = max(dp[i + 1][j - 1] + prices[i], dp[i + 1][j]);
+                }
+            }
+        }
+
+        return dp[0][2 * k];    
     }
 };
