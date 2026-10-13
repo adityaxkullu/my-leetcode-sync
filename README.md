@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2917-find-the-k-or-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2917-find-the-k-or-of-an-array) |
 ## Sorting
 |  |
 | ------- |
