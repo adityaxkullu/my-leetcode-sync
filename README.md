@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
