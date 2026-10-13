@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0509-fibonacci-number) |
