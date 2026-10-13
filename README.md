@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2101-detonate-the-maximum-bombs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2965-find-missing-and-repeated-values](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0645-set-mismatch) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
 |  |
 | ------- |
