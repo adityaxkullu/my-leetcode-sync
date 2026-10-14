@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0904-fruit-into-baskets) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0860-lemonade-change) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/2410-maximum-matching-of-players-with-trainers) |
