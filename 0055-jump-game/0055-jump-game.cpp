@@ -3,14 +3,19 @@ public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
 
-        int reach = 0;
-        for(int i = 0; i < n; i++) {
-            if(reach < i) return false;
+        vector<bool> dp(n, false);
+        dp[0] = true;
 
-            reach = max(reach, i + nums[i]);
-            if(reach >= n - 1) return true;
+        for(int i = 1; i < n; i++) {
+            for(int j = 0; j < i; j++) {
+                if(dp[j] && j + nums[j] >= i) {
+                    dp[i] = true;
+                    break;
+                }
+            }
         }
 
-        return true;
+        return dp[n - 1];
+        
     }
 };
