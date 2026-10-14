@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0074-search-a-2d-matrix) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
