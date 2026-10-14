@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0496-next-greater-element-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
+| [0455-assign-cookies](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0630-course-schedule-iii) |
@@ -700,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adityaxkullu/my-leetcode-sync/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
